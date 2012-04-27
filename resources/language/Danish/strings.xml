@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="610">Remove Auto</string>
+  <string id="611">Forbind til Wireless</string>
+  <string id="612">Afbrud</string>
+  <string id="613">Scan</string>
+  <string id="614">SSID</string>
+  <string id="615">CHNL</string>
+  <string id="616">KRYPTERING</string>
+  <string id="617">SIGNAL</string>
+  <string id="618">KRYPTERING</string>
+  <string id="619">SIGNAL</string>
+
+  <string id="30100">General</string>
+  <string id="30101">Indtast password</string>
+  <string id="30102">Installere</string>
+  <string id="30103">Indtast SSID</string>
+  <string id="30104">Indtast krypteringsnøgle</string>
+  <string id="30105">wicd er ikke installeret</string>
+  <string id="30106">wicd er installeret</string>
+  <string id="30107">Du har ikke instastet noget password!</string>
+  <string id="30108">Du har ikke indtastet ssid</string>
+  <string id="30109">Du har ikke indtastet nogen nøgle</string>
+  <string id="30110">Internet er tilgængeligt!</string>
+  <string id="30111">Internet er ikke tilgængeligt</string>
+  <string id="30112">Vent venligst...</string>
+  <string id="30113">Connection attempt made</string>
+  <string id="30114">Unix brugernavn</string>
+  <string id="30115">Opdaterer...</string>
+  <string id="30116">Færdig!</string>
+  <string id="30117">Frakobler....</string>
+  <string id="30118">Forbinder...</string>
+  <string id="30119">Gem konfiguration...</string>
+  <string id="99999"></string>
+
+
+</strings>
